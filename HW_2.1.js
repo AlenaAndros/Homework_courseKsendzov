@@ -35,7 +35,3 @@ if (age_1 < age_2) {
 } else {
     console.log ("Technical work")
 }
-
-hello 1
-Lena
-
